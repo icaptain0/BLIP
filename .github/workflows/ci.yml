@@ -26,4 +26,4 @@ jobs:
 
       - name: Check main script runs 
         run: |
-          python BLIP_CAM.py --help || true
+          python BLIP_VIDEO.py --help || true
