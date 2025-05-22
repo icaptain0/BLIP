@@ -24,8 +24,8 @@
 `BLIP_CAM`: 캠 기반 실시간 캡셔닝(+배경 마스킹)
 
 ## 결과 예시
-### BLIP_VIDEO: 비디오 파일 기반 캡셔닝
+#### BLIP_VIDEO: 비디오 파일 기반 캡셔닝
 <img src="https://github.com/user-attachments/assets/9d47accb-def6-4996-b3a6-c4e2d7f987c5" width="600">
 
-### BLIP_CAM: 실시간 웹캠 캡셔닝 (+배경 마스킹)
+#### BLIP_CAM: 실시간 웹캠 캡셔닝 (+배경 마스킹)
 <img src="https://github.com/user-attachments/assets/8798a070-a60c-415c-8a65-64822639f1ab" width="600">
