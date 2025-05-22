@@ -9,8 +9,7 @@
 1. Python 3.8 이상 설치
 2. 필수 패키지 설치
 
-'''bash
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 ## 파일 설명
 `BLIP_VIDEO`: 비디오 파일 기반  캡셔닝
